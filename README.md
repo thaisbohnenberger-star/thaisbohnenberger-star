@@ -4,14 +4,14 @@
 
 🎓 Estudante do 3º ano da Escola de Educação Básica Cecilia Vivan.
 
+💻 Interessado em tecnologia, programação e inovação  
+
 
 ## 📜 Cursos de Curta Duração
 
 🏛 Jovem Empreendedor – [ACISV] (2025)
 
 🏛 Cursando Informática Básica e Avançada – [Sebratep] (2025-2026)
-
-💻 Interessado em tecnologia, programação e inovação  
 
 ---
 
