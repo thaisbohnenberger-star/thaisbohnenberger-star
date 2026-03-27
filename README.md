@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Thais Caroline Bohnenberger
 
 🎓 Estudante da Aprendizagem Industrial em Programador de Sistema da Informação. (SENAI) Contratada pela Empresa Seara Alimentos.
+
 🎓 Estudante do 3º ano da Escola de Educação Básica Cecilia Vivan.
 
 
