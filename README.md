@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Thais Caroline Bohnenberger
 
-🎓 Estudante da Aprendizagem Industrial em Programador de Sistema da Informação
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistema da Informação, contratada pela empresa JBS
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
