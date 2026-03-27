@@ -7,7 +7,7 @@
 
 ## 📜 Cursos de Curta Duração
 
-🏛 Jovem Empreendedor – [Acisv] (2025)
+🏛 Jovem Empreendedor – [ACISV] (2025)
 
 🏛 Cursando Informática Básica e Avançada – [Sebratep] (2025-2026)
 
